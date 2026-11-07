@@ -11,6 +11,9 @@
   ],
   "result": {
     "id": "banner_expansion:crown_charge",
-    "count": 1
+    "count": 1,
+    "components": {
+      "minecraft:provides_banner_patterns": "#minecraft:pattern_item/crown_charge"
+    }
   }
 }
