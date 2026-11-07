@@ -1,0 +1,20 @@
+{
+  "replace": false,
+  "values": [
+    "banner_expansion:dragon",
+    "banner_expansion:skull",
+    "banner_expansion:royal_crown",
+    "banner_expansion:sword",
+    "banner_expansion:shield",
+    "banner_expansion:lightning",
+    "banner_expansion:flame",
+    "banner_expansion:mystic_eye",
+    "banner_expansion:crescent_moon",
+    "banner_expansion:sun",
+    "banner_expansion:wings",
+    "banner_expansion:trident",
+    "banner_expansion:spider_web",
+    "banner_expansion:rose",
+    "banner_expansion:medieval_crest"
+  ]
+}

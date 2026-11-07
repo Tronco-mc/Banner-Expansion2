@@ -1,0 +1,23 @@
+{
+  "schemaVersion": 1,
+  "id": "banner_expansion",
+  "version": "${version}",
+  "name": "Banner Expansion",
+  "description": "Adds 20 original banner patterns: 15 loom patterns and 5 craftable pattern items.",
+  "authors": [
+    "Banner Expansion Team"
+  ],
+  "license": "MIT",
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "com.bannerexpansion.BannerExpansion"
+    ]
+  },
+  "depends": {
+    "fabricloader": ">=0.16.0",
+    "minecraft": "~1.21.1",
+    "java": ">=21",
+    "fabric-api": "*"
+  }
+}

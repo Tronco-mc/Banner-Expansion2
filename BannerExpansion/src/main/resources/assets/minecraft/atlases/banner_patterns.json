@@ -1,0 +1,9 @@
+{
+  "sources": [
+    {
+      "type": "minecraft:directory",
+      "source": "banner_expansion:entity/banner",
+      "prefix": "banner_expansion:"
+    }
+  ]
+}
