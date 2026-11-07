@@ -2,8 +2,8 @@
   "type": "minecraft:crafting_shapeless",
   "category": "misc",
   "ingredients": [
-    { "item": "minecraft:paper" },
-    { "item": "minecraft:gold_ingot" }
+    "minecraft:paper",
+    "minecraft:gold_ingot"
   ],
   "result": {
     "id": "banner_expansion:void_charge",
