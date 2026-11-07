@@ -2,15 +2,14 @@
   "type": "minecraft:crafting_shapeless",
   "category": "misc",
   "ingredients": [
-    {
-      "item": "minecraft:paper"
-    },
-    {
-      "item": "minecraft:ender_pearl"
-    }
+    { "item": "minecraft:paper" },
+    { "item": "minecraft:gold_ingot" }
   ],
   "result": {
     "id": "banner_expansion:void_charge",
-    "count": 1
+    "count": 1,
+    "components": {
+      "minecraft:provides_banner_patterns": "#minecraft:pattern_item/void_charge"
+    }
   }
 }
