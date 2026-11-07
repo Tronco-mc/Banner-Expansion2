@@ -1,0 +1,10 @@
+{
+  "replace": false,
+  "values": [
+    "banner_expansion:phoenix_charge",
+    "banner_expansion:demon_charge",
+    "banner_expansion:wolf_charge",
+    "banner_expansion:crown_charge",
+    "banner_expansion:void_charge"
+  ]
+}
